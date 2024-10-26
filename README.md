@@ -2,6 +2,12 @@
 
 This repo includes a function to decode QRC-Lyrics(Lyric file format of QQMusic) and output into binary buffer.
 
+## Requirements
+
+- vcpkg
+
+- g++/clang++(I use clang++ 18.1.8 and g++ 14.2.1)
+
 ## Usage
 
 The declaration of function is:
