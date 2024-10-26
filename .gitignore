@@ -1,0 +1,13 @@
+# build folder
+build/
+
+# clangd cache
+.cache/
+
+# log file
+*.log
+
+# compile production
+*.o
+*.a
+*.so
