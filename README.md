@@ -33,3 +33,9 @@ if is cloud: do nothing
 |
 zlib decompress
 ```
+
+## Reference
+
+[luren-dc QQMusicApi](https://github.com/luren-dc/QQMusicApi)
+
+[LDDC](https://github.com/chenmozhijin/LDDC)
